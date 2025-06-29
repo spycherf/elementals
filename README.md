@@ -8,12 +8,13 @@ The game is set on primordial Azeroth. To protect the nascent world-soul, the Pa
 
 ## Rules
 
-The game rules are found in the [`elementals_game_rules.md`](https://github.com/spycherf/elementals/blob/main/elementals_game_rules.md) file.
+The game rules are found in the `elementals_game_rules.md` file.
 
 ## Feedback
 
 Any feedback on this version of Clear the Dungeon is greatly appreciated! Get in touch with me @sprotch on Discord.
 
-## Other card games
+## Other games inspried by the Warcraft franchise
 
-[Mercenaries](https://github.com/spycherf/mercenaries), a two-player, turn-based card game also inspired by Warcraft
+- [Creeps](https://github.com/spycherf/creeps), another single-player card game
+- [Mercenaries](https://github.com/spycherf/mercenaries), a two-player, turn-based card game
